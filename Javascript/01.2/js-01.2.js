@@ -42,3 +42,4 @@ const iife = (function () {
 const loadUser = (function(user){
   document.write(`<p>Carregando as informações do usuário: <strong>${user}</strong></p>`)
 })("Diego")
+
